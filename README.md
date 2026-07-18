@@ -60,6 +60,13 @@ The interactive Tableau dashboard provides insights into:
 * Property performance metrics
 * Occupancy opportunities
 
+## Live Dashboard
+
+Explore the interactive Tableau dashboard here:
+
+View Dashboard on Tableau Public
+https://public.tableau.com/app/profile/oluwaseyi.likinyo/viz/AirBnBFullProject_17842994095860/Dashboard1?publish=yes
+
 ## Key Skills Demonstrated
 
 ### Data Preparation
@@ -106,7 +113,7 @@ This project demonstrates the end-to-end data analytics process, including data 
 
 I am an aspiring Data Analyst passionate about transforming raw data into actionable insights. I am currently building practical experience through projects involving Tableau, Excel, SQL, and Power BI while developing strong skills in data analysis, visualization, and business intelligence.
 
-Connect With Me
+## Connect With Me
 
 LinkedIn: https://www.linkedin.com/inoluwaseyi-likinyo
 
